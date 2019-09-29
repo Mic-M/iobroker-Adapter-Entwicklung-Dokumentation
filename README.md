@@ -1,3 +1,1 @@
-## Dokumentation zur Entwicklung von ioBroker-Adapter
-
-[Siehe Wiki](https://github.com/Mic-M/iobroker.Adapter-Entwicklung-Dokumentation/wiki).
+Die Dokumentation wurde nach [Adapter-Entwicklung für-Anfänger](https://github.com/Mic-M/iobroker.Adapter-Entwicklung-fuer-Anfaenger/wiki) verschoben.
